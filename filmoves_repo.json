@@ -1,0 +1,323 @@
+{
+    "repoVersion": 1,
+    "extensions": [
+        {
+            "name": "Filmoves",
+            "pkg": "eu.kanade.tachiyomi.extension.es.filmoves",
+            "lang": "es",
+            "version": "1.0",
+            "movies": [
+                {
+                    "name": "Twisters",
+                    "url": "https://www.filmoves.net/pelicula/twisters",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Gru 4. Mi villano favorito",
+                    "url": "https://www.filmoves.net/pelicula/gru-4-mi-villano-favorito",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Escape Room 2: Mueres por salir",
+                    "url": "https://www.filmoves.net/pelicula/escape-room-2-mueres-por-salir",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Del revés 2 (Inside Out 2)",
+                    "url": "https://www.filmoves.net/pelicula/del-reves-2-%28inside-out-2%29",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Kung Fu Panda 4",
+                    "url": "https://www.filmoves.net/pelicula/kung-fu-panda-4",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Bad Boys: Ride or Die",
+                    "url": "https://www.filmoves.net/pelicula/bad-boys-ride-or-die",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Deadpool y Lobezno",
+                    "url": "https://www.filmoves.net/pelicula/deadpool-y-lobezno",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Offworld",
+                    "url": "https://www.filmoves.net/pelicula/offworld",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Beyond the Lake",
+                    "url": "https://www.filmoves.net/pelicula/beyond-the-lake",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Aftermath",
+                    "url": "https://www.filmoves.net/pelicula/aftermath",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "El rey escorpión",
+                    "url": "https://www.filmoves.net/pelicula/el-rey-escorpion",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Cazadores en tierra inhóspita",
+                    "url": "https://www.filmoves.net/pelicula/cazadores-en-tierra-inhospita",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Under the Influencer",
+                    "url": "https://www.filmoves.net/pelicula/under-the-influencer",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "The Drop",
+                    "url": "https://www.filmoves.net/pelicula/the-drop",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Justice Society: World War II",
+                    "url": "https://www.filmoves.net/pelicula/justice-society-world-war-ii",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "The Painter",
+                    "url": "https://www.filmoves.net/pelicula/the-painter",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "The Marvels",
+                    "url": "https://www.filmoves.net/pelicula/the-marvels",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Sorprendida por Oxford",
+                    "url": "https://www.filmoves.net/pelicula/sorprendida-por-oxford",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Deadpool y Lobezno",
+                    "url": "https://www.filmoves.net/pelicula/deadpool-y-lobezno",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Aquaman y El Reino Perdido",
+                    "url": "https://www.filmoves.net/pelicula/aquaman-and-the-lost-kingdom",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Beekeeper: El protector",
+                    "url": "https://www.filmoves.net/pelicula/beekeeper-el-protector",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Wonka",
+                    "url": "https://www.filmoves.net/pelicula/wonka",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Blue Beetle",
+                    "url": "https://www.filmoves.net/pelicula/blue-beetle",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Flash",
+                    "url": "https://www.filmoves.net/pelicula/flash",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Spider-Man: Cruzando el Multiverso",
+                    "url": "https://www.filmoves.net/pelicula/spider-man-cruzando-el-multiverso",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "La sirenita",
+                    "url": "https://www.filmoves.net/pelicula/la-sirenita-live-action",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Súper Mario Bros: La película",
+                    "url": "https://www.filmoves.net/pelicula/super-mario-bros-la-pelicula",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "John Wick 4",
+                    "url": "https://www.filmoves.net/pelicula/john-wick-4",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "¡Shazam! La furia de los dioses",
+                    "url": "https://www.filmoves.net/pelicula/-shazam!-la-furia-de-los-dioses",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Creed III",
+                    "url": "https://www.filmoves.net/pelicula/creed-iii",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Ant-Man y la Avispa: Quantumanía",
+                    "url": "https://www.filmoves.net/pelicula/ant-man-y-la-avispa-quantumania",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "El Gato con Botas: El último deseo",
+                    "url": "https://www.filmoves.net/pelicula/el-gato-con-botas-el-ultimo-deseo",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "M3GAN",
+                    "url": "https://www.filmoves.net/pelicula/m3gan",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Avatar: El sentido del agua",
+                    "url": "https://www.filmoves.net/pelicula/avatar-2",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Pinocho de Guillermo del Toro",
+                    "url": "https://www.filmoves.net/pelicula/pinocho-de-guillermo-del-toro",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Guardianes de la Galaxia: especial felices fiestas",
+                    "url": "https://www.filmoves.net/pelicula/guardianes-de-la-galaxia-especial-felices-fiestas",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Leo",
+                    "url": "https://www.filmoves.net/pelicula/leo",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "ONEFOUR: Against All Odds",
+                    "url": "https://www.filmoves.net/pelicula/onefour-against-all-odds",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "El lado dulce de la traición",
+                    "url": "https://www.filmoves.net/pelicula/el-lado-dulce-de-la-traicion",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Las semanas mágicas",
+                    "url": "https://www.filmoves.net/pelicula/las-semanas-magicas",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Chupa",
+                    "url": "https://www.filmoves.net/pelicula/chupa",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "El rey de las sombras",
+                    "url": "https://www.filmoves.net/pelicula/el-rey-de-las-sombras",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Luther: Cae la noche",
+                    "url": "https://www.filmoves.net/pelicula/luther-cae-la-noche",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "¿Encontró lo que buscaba?",
+                    "url": "https://www.filmoves.net/pelicula/-encontro-lo-que-buscaba-",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Muy lejos de aquí",
+                    "url": "https://www.filmoves.net/pelicula/muy-lejos-de-aqui",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Chris Rock: Selective Outrage",
+                    "url": "https://www.filmoves.net/pelicula/chris-rock-selective-outrage",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Espíritu libre",
+                    "url": "https://www.filmoves.net/pelicula/espiritu-libre",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Los 4 Grandes",
+                    "url": "https://www.filmoves.net/pelicula/los-4-grandes",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Pinocho de Guillermo del Toro",
+                    "url": "https://www.filmoves.net/pelicula/pinocho-de-guillermo-del-toro",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Matrimillas",
+                    "url": "https://www.filmoves.net/pelicula/matrimillas",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Ardiente paciencia",
+                    "url": "https://www.filmoves.net/pelicula/ardiente-paciencia",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "El estafador enmascarado",
+                    "url": "https://www.filmoves.net/pelicula/el-estafador-enmascarado",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "Matilda de Roald Dahl: El musical",
+                    "url": "https://www.filmoves.net/pelicula/matilda-de-roald-dahl-el-musical",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "El diario de Noel",
+                    "url": "https://www.filmoves.net/pelicula/el-diario-de-noel",
+                    "thumbnail_url": ""
+                },
+                {
+                    "name": "ted",
+                    "url": "https://www.filmoves.net/serie/ted",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/January2024/7prRLwAhGc2dkJCwhlj0.jpg"
+                },
+                {
+                    "name": "Berlín",
+                    "url": "https://www.filmoves.net/serie/berlin",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/January2024/aQvkELCUyJCPHfklj1i3.jpg"
+                },
+                {
+                    "name": "El juego del calamar: El desafío",
+                    "url": "https://www.filmoves.net/serie/el-juego-del-calamar-el-desafio",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/December2023/M86ZVsxJILwFBcJoPVYb.jpg"
+                },
+                {
+                    "name": "Twisted Metal",
+                    "url": "https://www.filmoves.net/serie/twisted-metal",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/August2023/BZV6OhE8JhTbHCpfcJHg.jpg"
+                },
+                {
+                    "name": "Eliminar",
+                    "url": "https://www.filmoves.net/serie/eliminar",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/November2023/FkCpQuHsSy5VgB0Raetz.jpg"
+                },
+                {
+                    "name": "Barrabrava",
+                    "url": "https://www.filmoves.net/serie/barrabrava",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/November2023/526ikMPf5mqE4wGZhHlR.jpg"
+                },
+                {
+                    "name": "Invasión secreta",
+                    "url": "https://www.filmoves.net/serie/invasion-secreta",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/August2023/W12odTdNgBicZA1kuTxT.jpg"
+                },
+                {
+                    "name": "Los Muppets: Los Mayhem dan la nota",
+                    "url": "https://www.filmoves.net/serie/los-muppets-los-mayhem-dan-la-nota",
+                    "thumbnail_url": "https://filmoves.net/storage/tvshows/July2023/l64NDt5yo49AwUyfwUqL.jpg"
+                }
+            ]
+        }
+    ]
+}
